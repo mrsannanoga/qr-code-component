@@ -24,7 +24,7 @@ This is a simple card that contains QR code linked to Frontend Mentor webpage, i
 ### Links
 
 - Solution URL: [GitHub](https://github.com/mrsannanoga/qr-code-component)
-- Live Site URL: [Live URL](https://your-live-site-url.com)
+- Live Site URL: [Live URL](https://mrsannanoga.github.io/qr-code-component/)
 
 ## My process
 
