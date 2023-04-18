@@ -2,7 +2,7 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
 
-This is a simple card that contains QR code linked to Frontend Mentor webpage, informative title with description, and action button to follow component repo on my GitHub.
+This is a simple card that contains QR code linked to my GitHub account, informative title with description, and action button to follow component repo on my GitHub.
 
 ## Table of contents
 

@@ -68,7 +68,7 @@ a {
 }
 
 .card-body a:hover {
-    background-color: var(--azure);
+    background-color: var(--fandango);
 }
 
 .card-title {
@@ -88,7 +88,7 @@ footer {
     display: flex;
     justify-content: center;
     gap: 2rem;
-    background: linear-gradient(to bottom, var(--ivory), var(--azure));
+    background: linear-gradient(to bottom, var(--ivory), var(--delft-blue));
     font-size: 12px;
     padding: 15px;
     text-align: center;
