@@ -16,6 +16,11 @@ body {
     --ivory: #F9FCE9ff;
     --slate-gray: #677286ff;
     --penn-blue: #0A133Eff;
+    --jordy-blue: #A8CAFDff;
+    --cornflower-blue: #5D9BFCff;
+    --chefchaouen-blue: #3C88FDff;
+    --azure: #3685FFff;
+    --azure-2: #2C7DFAff;
 }
 
 p {
@@ -56,14 +61,16 @@ a {
     flex-direction: column;
     text-align: center;
 }
-.card-body a{
+
+.card-body a {
     background-color: var(--delft-blue);
     border: none;
 }
 
-.card-body a:hover{
-    background-color: var(--fandango);
+.card-body a:hover {
+    background-color: var(--azure);
 }
+
 .card-title {
     font-weight: 700;
     color: var(--penn-blue);
@@ -81,16 +88,16 @@ footer {
     display: flex;
     justify-content: center;
     gap: 2rem;
-    background: linear-gradient(to bottom, var(--ivory), var(--delft-blue));
+    background: linear-gradient(to bottom, var(--ivory), var(--azure));
     font-size: 12px;
     padding: 15px;
     text-align: center;
 }
 
-.attribution{
+.attribution {
     color: white;
 }
 
-.attribution a{
+.attribution a {
     color: var(--delft-blue);
 }
